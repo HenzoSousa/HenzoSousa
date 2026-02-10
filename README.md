@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20Desenvolvimento%20de%20Sistemas-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Objetivo-Ciência%20da%20Computação-0A66C2?style=for-the-badge" />
 </p>
 
 ---
