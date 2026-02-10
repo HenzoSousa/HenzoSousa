@@ -1,6 +1,6 @@
 # Olá 👋, Sou O Henzo Sousa
 
-💻 Estudante de Desenvolvimento de Sistemas | ETEC(Técnico/Ensino Médio)
+💻 Estudante de Desenvolvimento de Sistemas | ETEC (Técnico/Ensino Médio)
 🇧🇷 Brasil
 
 Sou estudante do curso técnico em Desenvolvimento de Sistemas, atualmente em fase de aprendizado e aprimoramento constante na área de tecnologia. Tenho contato com programação, lógica de sistemas e desenvolvimento de software, e estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de código. Possuo grande interesse em seguir carreira na área de TI, com foco em desenvolvimento de software e uma possível formação futura em Ciência da Computação. Este repositório reúne meus estudos, projetos acadêmicos e experiências práticas, acompanhando minha evolução como desenvolvedor ao longo do tempo.
@@ -15,7 +15,7 @@ Sou estudante do curso técnico em Desenvolvimento de Sistemas, atualmente em fa
   </a>
   </a>
   <a href="hhttps://www.linkedin.com/in/henzo-sousa-5b827b378/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin   logoColor=white" />
   </a>
 </p>
 
@@ -46,8 +46,8 @@ Sou estudante do curso técnico em Desenvolvimento de Sistemas, atualmente em fa
 
 ![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#] (https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP] (https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
@@ -58,12 +58,7 @@ Sou estudante do curso técnico em Desenvolvimento de Sistemas, atualmente em fa
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenzoSousa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoSousa&layout=compact&theme=tokyonight" />
-</p>
 
----
+
 
