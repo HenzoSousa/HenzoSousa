@@ -7,7 +7,7 @@
 
 ---
 
-##  Olá 👋, eu sou o Henzo Sousa
+##  Olá, eu sou o Henzo Sousa
 
 💻 Estudante de Desenvolvimento de Sistemas | ETEC  (Técnico + Ensino Médio).
 🇧🇷 Brasil  
