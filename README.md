@@ -1,4 +1,4 @@
-<!-- BANNER TOPO -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A66C2&height=180&section=header&text=Henzo%20Sousa&fontColor=ffffff&fontSize=40)
 
 <p align="center">
@@ -9,9 +9,9 @@
 
 ---
 
-## 💙 Olá 👋, eu sou o Henzo Sousa
+##  Olá 👋, eu sou o Henzo Sousa
 
-💻 Estudante de Desenvolvimento de Sistemas | ETEC  
+💻 Estudante de Desenvolvimento de Sistemas | ETEC  (Técnico + Ensino Médio).
 🇧🇷 Brasil  
 
 Sou estudante do curso técnico em **Desenvolvimento de Sistemas**, em constante aprendizado e evolução na área de tecnologia. Tenho contato com **programação, lógica de sistemas e desenvolvimento de software**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de código.
@@ -21,7 +21,7 @@ Este GitHub funciona como um **registro da minha evolução**, reunindo projetos
 
 ---
 
-## 💙 Sobre mim
+##  Sobre mim
 
 - 🎓 Estudante técnico em Desenvolvimento de Sistemas  
 - 🧠 Curioso por tecnologia e programação  
@@ -31,7 +31,7 @@ Este GitHub funciona como um **registro da minha evolução**, reunindo projetos
 
 ---
 
-## 💙 Contato
+##  Contato
 
 <p align="center">
   <a href="https://github.com/HenzoSousa" target="_blank">
@@ -44,7 +44,7 @@ Este GitHub funciona como um **registro da minha evolução**, reunindo projetos
 
 ---
 
-## 💙 O que estudo e desenvolvo
+##  O que estudo e desenvolvo
 
 - Desenvolvimento de projetos acadêmicos e pessoais  
 - Fundamentos de programação e lógica computacional  
@@ -55,21 +55,21 @@ Este GitHub funciona como um **registro da minha evolução**, reunindo projetos
 
 ---
 
-## 💙 Tecnologias
+##  Tecnologias
 
-### 💙 Frontend
+###  Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0A66C2?style=for-the-badge&logo=css&logoColor=white)
 
-### 💙 Backend
+###  Backend
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-0A66C2?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0A66C2?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0A66C2?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💙 Versionamento
+###  Versionamento
 ![Git](https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white)
 
 ---
