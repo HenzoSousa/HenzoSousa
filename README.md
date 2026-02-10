@@ -1,59 +1,83 @@
-# Olá 👋, Sou O Henzo Sousa
+<!-- BANNER TOPO -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A66C2&height=180&section=header&text=Henzo%20Sousa&fontColor=ffffff&fontSize=40)
 
-💻 Estudante de Desenvolvimento de Sistemas | ETEC (Técnico/Ensino Médio)
-🇧🇷 Brasil
-
-Sou estudante do curso técnico em Desenvolvimento de Sistemas, atualmente em fase de aprendizado e aprimoramento constante na área de tecnologia. Tenho contato com programação, lógica de sistemas e desenvolvimento de software, e estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de código. Possuo grande interesse em seguir carreira na área de TI, com foco em desenvolvimento de software e uma possível formação futura em Ciência da Computação. Este repositório reúne meus estudos, projetos acadêmicos e experiências práticas, acompanhando minha evolução como desenvolvedor ao longo do tempo.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20Desenvolvimento%20de%20Sistemas-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Objetivo-Ciência%20da%20Computação-0A66C2?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌐 Contato
+## 💙 Olá 👋, eu sou o Henzo Sousa
 
-<p align="left">
-  <a href="https://github.com/HenzoSousa">
-    <img src="https://img.shields.io/badge/GitHub-HenzoSousa-181717?style=for-the-badge&logo=github" />
+💻 Estudante de Desenvolvimento de Sistemas | ETEC  
+🇧🇷 Brasil  
+
+Sou estudante do curso técnico em **Desenvolvimento de Sistemas**, em constante aprendizado e evolução na área de tecnologia. Tenho contato com **programação, lógica de sistemas e desenvolvimento de software**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de código.
+
+Tenho grande interesse em seguir carreira na área de **TI**, com foco em **desenvolvimento de software**, e futuramente pretendo cursar **Ciência da Computação**.  
+Este GitHub funciona como um **registro da minha evolução**, reunindo projetos, estudos e experiências práticas.
+
+---
+
+## 💙 Sobre mim
+
+- 🎓 Estudante técnico em Desenvolvimento de Sistemas  
+- 🧠 Curioso por tecnologia e programação  
+- 💡 Sempre aprendendo novas linguagens e ferramentas  
+- 📈 Evoluindo com projetos práticos  
+- 🎯 Objetivo: me tornar desenvolvedor profissional  
+
+---
+
+## 💙 Contato
+
+<p align="center">
+  <a href="https://github.com/HenzoSousa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HenzoSousa-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  </a>
-  <a href="hhttps://www.linkedin.com/in/henzo-sousa-5b827b378/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin   logoColor=white" />
+  <a href="https://www.linkedin.com/in/henzo-sousa-5b827b378/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Henzo%20Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
- ## 🛠️ O que faço e estudo
+## 💙 O que estudo e desenvolvo
 
-- Desenvolvimento de projetos acadêmicos e pessoais
-- Fundamentos de desenvolvimento de sistemas
-- Noções de backend, frontend e APIs
-- Modelagem de dados e SQL
-- Organização de código e boas práticas
-- Resolução de problemas e raciocínio lógico
-- Aprendizado contínuo de novas tecnologias
-
+- Desenvolvimento de projetos acadêmicos e pessoais  
+- Fundamentos de programação e lógica computacional  
+- Frontend, backend e APIs  
+- Modelagem de dados e SQL  
+- Organização de código e boas práticas  
+- Resolução de problemas  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 💙 Tecnologias
 
-### Frontend
+### 💙 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0A66C2?style=for-the-badge&logo=css&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+### 💙 Backend
+![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-0A66C2?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0A66C2?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0A66C2?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Backend
+### 💙 Versionamento
+![Git](https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white)
 
-![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A66C2&height=120&section=footer"/>
+</p>
 
-### DevOps 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 
 ---
