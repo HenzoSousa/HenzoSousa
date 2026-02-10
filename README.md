@@ -12,7 +12,7 @@
 💻 Estudante de Desenvolvimento de Sistemas | ETEC  (Técnico + Ensino Médio).
 🇧🇷 Brasil  
 
-Sou estudante do curso técnico em **Desenvolvimento de Sistemas**, em constante aprendizado e evolução na área de tecnologia. Tenho contato com **programação, lógica de sistemas e desenvolvimento de software**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de código.
+Atualmente, eu sou estudante do curso técnico em **Análise e Desenvolvimento de Sistemas**, em constante aprendizado e evolução na área de tecnologia. Tenho contato com **programação, lógica de sistemas, desenvolvimento de software e hardware**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de código para projetos eficientes.
 
 Tenho grande interesse em seguir carreira na área de **TI**, com foco em **desenvolvimento de software**, e futuramente pretendo cursar **Ciência da Computação**.  
 Este GitHub funciona como um **registro da minha evolução**, reunindo projetos, estudos e experiências práticas.
