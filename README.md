@@ -19,16 +19,6 @@ Este GitHub funciona como um **registro da minha evolução**, reunindo projetos
 
 ---
 
-##  Sobre mim
-
-- 🎓 Estudante técnico em Desenvolvimento de Sistemas  
-- 🧠 Curioso por tecnologia e programação  
-- 💡 Sempre aprendendo novas linguagens e ferramentas  
-- 📈 Evoluindo com projetos práticos  
-- 🎯 Objetivo: me tornar desenvolvedor profissional  
-
----
-
 ##  Contato
 
 <p align="center">
