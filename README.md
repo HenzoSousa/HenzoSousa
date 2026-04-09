@@ -52,7 +52,6 @@ Este GitHub funciona como um **registro da minha evolução**, reunindo projetos
 
 ###  Backend
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-0A66C2?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0A66C2?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0A66C2?style=for-the-badge&logo=mysql&logoColor=white)
